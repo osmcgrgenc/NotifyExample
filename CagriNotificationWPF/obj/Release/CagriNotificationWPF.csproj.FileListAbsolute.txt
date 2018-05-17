@@ -1,0 +1,15 @@
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\bin\Release\CagriNotificationWPF.exe.config
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\bin\Release\CagriNotificationWPF.exe
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\bin\Release\CagriNotificationWPF.pdb
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\CagriNotificationWPF.csprojResolveAssemblyReference.cache
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\Main.baml
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\MainWindow.baml
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\Main.g.cs
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\MainWindow.g.cs
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\App.g.cs
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\CagriNotificationWPF_MarkupCompile.cache
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\CagriNotificationWPF.g.resources
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\CagriNotificationWPF.Properties.Resources.resources
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\CagriNotificationWPF.csproj.GenerateResource.Cache
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\CagriNotificationWPF.exe
+C:\Users\Arge-1\Documents\Visual Studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Release\CagriNotificationWPF.pdb

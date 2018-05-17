@@ -1,0 +1,15 @@
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\bin\Debug\CagriNotificationWPF.exe.config
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\bin\Debug\CagriNotificationWPF.exe
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\bin\Debug\CagriNotificationWPF.pdb
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\CagriNotificationWPF.csprojResolveAssemblyReference.cache
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\MainWindow.baml
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\MainWindow.g.cs
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\App.g.cs
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\CagriNotificationWPF_MarkupCompile.cache
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\CagriNotificationWPF.g.resources
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\CagriNotificationWPF.Properties.Resources.resources
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\CagriNotificationWPF.csproj.GenerateResource.Cache
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\CagriNotificationWPF.exe
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\CagriNotificationWPF.pdb
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\Main.baml
+c:\users\arge-1\documents\visual studio 2013\Projects\CagriNotificationWPF\CagriNotificationWPF\obj\Debug\Main.g.cs
